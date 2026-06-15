@@ -1,0 +1,20 @@
+<!-- TODO: Editor 1: Khung HTML chuẩn
+Yêu cầu: Hoàn thiện index.html có DOCTYPE, html lang, head, meta charset, title, body, h1 và p.
+Gợi ý: Đọc mục 2.1.1; tự gõ khung từ trên xuống.
+Không dán code vào editor chính. Hãy tự gõ, sau đó copy sang editor online để chạy thử. -->
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TODO</title>
+  <!-- TODO: thêm CSS nội bộ hoặc liên kết css/style.css nếu đề yêu cầu -->
+</head>
+<body>
+
+ <h1>Xin chào!</h1>
+ <p>Đây là trang HTML cơ bản đầu tiên của tôi.</p>
+
+</body>
+</html>
