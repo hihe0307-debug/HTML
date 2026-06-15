@@ -1,0 +1,19 @@
+<!-- TODO: Editor 3: Trang giới thiệu môn học
+Yêu cầu: Tạo trang HTML giới thiệu môn Thiết kế web với tiêu đề tab và nội dung trong body.
+Gợi ý: Dựa vào ví dụ Xin chào HTML.
+Không dán code vào editor chính. Hãy tự gõ, sau đó copy sang editor online để chạy thử. -->
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TODO</title>
+  <!-- TODO: thêm CSS nội bộ hoặc liên kết css/style.css nếu đề yêu cầu -->
+</head>
+<body>
+
+ <h1>Giới thiệu môn Thiết kế web</h1> <p> Môn Thiết kế web giúp sinh viên tìm hiểu cách xây dựng và phát triển các trang web bằng ngôn ngữ HTML, CSS và JavaScript.
+
+</body>
+</html>
