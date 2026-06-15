@@ -1,0 +1,21 @@
+<!-- TODO: Editor 2: Phân biệt head/body
+Yêu cầu: Tạo trang có phần head đầy đủ và body chứa 3 nội dung hiển thị: h1, h2, p.
+Gợi ý: Nhớ head cấu hình, body hiển thị.
+Không dán code vào editor chính. Hãy tự gõ, sau đó copy sang editor online để chạy thử. -->
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TODO</title>
+  <!-- TODO: thêm CSS nội bộ hoặc liên kết css/style.css nếu đề yêu cầu -->
+</head>
+<body>
+
+ <h1>Chào mừng đến với trang web của tôi</h1>
+ <h2>Đây là tiêu đề phụ</h2>
+ <p>Đây là đoạn văn hiển thị nội dung cho người dùng.</p>
+
+</body>
+</html>
