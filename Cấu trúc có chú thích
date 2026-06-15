@@ -12,8 +12,12 @@ Không dán code vào editor chính. Hãy tự gõ, sau đó copy sang editor on
   <!-- TODO: thêm CSS nội bộ hoặc liên kết css/style.css nếu đề yêu cầu -->
 </head>
 <body>
-
- <!-- Phần nội dung --> <h1>Chào mừng đến với trang web</h1> <p>Đây là ví dụ về cấu trúc HTML có sử dụng chú thích để phân chia các khu vực mã.</p>
+    <header>
+        <h1> Bình luận đánh dấu phần đầu</h1>
+    </header>
+    <main>
+        <p> Nội dung chính của trang</p>
+    </main>
 
 </body>
 </html>
